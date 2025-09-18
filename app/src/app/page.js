@@ -7,7 +7,7 @@ export default function Home() {
       <div className="absolute top-8 left-8">
         <Image
           src="/outmadelogo.png"
-          alt="Outmade Ltd Logo"
+          alt="Outmade Ltd Logo "
           width={80}
           height={40}
           priority
